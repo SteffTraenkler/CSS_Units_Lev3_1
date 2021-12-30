@@ -1,0 +1,33 @@
+body{
+    align-self: center;
+    background-image: url(../img/photo-1418065460487-3e41a6c84dc5.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 10px;
+    margin: 2vw;
+
+}
+
+h1{
+    font-size: 1.8rem;
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.63);
+    border-radius: 0.5rem;
+    padding: 0.5em 1em;
+}
+
+article{
+    text-align: center;
+    font-size: 1.2em;
+    font-family: 'Helvetica';
+    background-color: rgba(211, 211, 211, 0.568);
+    padding: 1.5vw;
+    border-radius: 0.5rem;
+
+}
+
+
+h2{
+    line-height: 5em;
+}
